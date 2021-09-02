@@ -1,7 +1,7 @@
 ## Phùng Đức Chính (Edmun)
 _Co-Founder and General Manager at CrossTech JSC, Ho Chi Minh, Viet Nam._
 
-[Email](chinhphung.crosstech@gmail.com) / [Website](crosstechhub.com) / [LinkedIn](https://www.linkedin.com/in/phung-duc-chinh-crosstech/) / [Skype](https://join.skype.com/invite/eCiUwOZhaL9u)
+[Phone](+84 33 636 4490) / [Email](chinhphung.crosstech@gmail.com) / [Website](crosstechhub.com) / [LinkedIn](https://www.linkedin.com/in/phung-duc-chinh-crosstech/) / [Skype](https://join.skype.com/invite/eCiUwOZhaL9u)
 
 ### OBJECTIVE
 * 2+ years of Co-Founder at EdTech company, in charge of strategy, operations, communication and product development.
@@ -64,11 +64,10 @@ GPA: 7.25/10
 
 ### SKILL 📖
 
------------- | -------------
-Domain knowledges | Customer service - Product development - E-commerce - Marketing
-Personal | Leadership - Communication - Negotiation - Presentation - Problem Solving - Critical thinking - Flexibility - Scrum (Agile)
-Technical | Mobile software circle - Design (Photoshop, XD, Sketch, Figma)
-Management tools | Backlog - Jira - Trello - Redmine
+**Domain knowledges** | Customer service - Product development - E-commerce - Marketing
+**Personal** | Leadership - Communication - Negotiation - Presentation - Problem Solving - Critical thinking - Flexibility - Scrum (Agile)
+**Technical** | Mobile software circle - Design (Photoshop, XD, Sketch, Figma)
+**Management tools** | Backlog - Jira - Trello - Redmine
 
 
 
@@ -81,7 +80,7 @@ _(Sep 2020 - Apr 2021)_
 **Description** | A Business matching app. Users who can register are limited to business owners, executives, sole proprietors, freelancers, etc., and provide matching opportunities that are directly linked to each other's business.
 **Team size** | 8
 **My position** | Project Leader
-**My responsibilities** | - Project management, scheduling, planning and assigning work to team members. \n - Upload the app to the Appstore and Google Play.
+**My responsibilities** | Project management, scheduling, planning and assigning work to team members. Upload the app to the Appstore and Google Play.
 **Technologies used** | Flutter, Firebase
 
 
@@ -89,15 +88,10 @@ _(Sep 2020 - Apr 2021)_
 _(Mar 2020 - Oct 2020)_
 
 **Customer** | gumi Viet Nam
-**Description** | This application is used for Japanese graduates in 2022. Basic functions of job information
-application such as company search, internship and entry. Furthermore, it offers functions
-unique to the packed local newspaper.
+**Description** | This application is used for Japanese graduates in 2022. Basic functions of job information application such as company search, internship and entry. Furthermore, it offers functions unique to the packed local newspaper.
 **Team size** | 8
 **My position** | Project Leader & iOS Developer
-**My responsibilities** | - Project management, scheduling, planning and assigning work to team members.
-- Development, determine the requirement.
-- Upload the app to the Appstore and Google Play.
-- Mentor 1 Indian internship.
+**My responsibilities** | Project management, scheduling, planning and assigning work to team members. Development, determine the requirement. Upload the app to the Appstore and Google Play. Mentor 1 Indian internship.
 **Technologiesused** | Swift, Firebase, Google Map Api, Realm, Alamofire
 
 
@@ -105,9 +99,7 @@ unique to the packed local newspaper.
 _(Aug 2019 - Dec 2019)_
 
 **Customer** | Viet Nam
-**Description** | This is e-commerce application use for booking an appointment with Beauty place like spa, hair
-salon, user can booking, payment, management their appointment, scan place on map, search or
-filter data then want.
+**Description** | This is e-commerce application use for booking an appointment with Beauty place like spa, hair salon, user can booking, payment, management their appointment, scan place on map, search or filter data then want.
 **Team size** | 10
 **My position** | iOS Developer
 **My responsibilities** | Development iOS application
@@ -118,13 +110,10 @@ filter data then want.
 _(Now 2018 - Feb 2019)_
 
 **Customer** | K-Soft
-**Description** | This application will be used for customer booking worker do their work such as fix machine,
-houseworker,...
+**Description** | This application will be used for customer booking worker do their work such as fix machine, houseworker,...
 **Team size** | 12
 **My position** | iOS Developer & BA
-**My responsibilities** | - Create working-flow, fix UI/UX design app.
-- Communication with outsource team.
-- Development iOS application
+**My responsibilities** | Create working-flow, fix UI/UX design app. Communication with outsource team. Development iOS application
 **Technologiesused** | Swift, MVVM, RESTFul API, Facebook APIs, Google APIs.
 
 
