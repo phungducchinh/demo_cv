@@ -1,7 +1,7 @@
 ## Phùng Đức Chính (Edmun)
 _Co-Founder and General Manager at CrossTech JSC, Ho Chi Minh, Viet Nam._
 
-[Phone](+84 33 636 4490) / [Email](chinhphung.crosstech@gmail.com) / [Website](crosstechhub.com) / [LinkedIn](https://www.linkedin.com/in/phung-duc-chinh-crosstech/) / [Skype](https://join.skype.com/invite/eCiUwOZhaL9u)
+[Phone](tel: +84 33 636 4490) / [Email](chinhphung.crosstech@gmail.com) / [Website](crosstechhub.com) / [LinkedIn](https://www.linkedin.com/in/phung-duc-chinh-crosstech/) / [Skype](https://join.skype.com/invite/eCiUwOZhaL9u)
 
 ### OBJECTIVE
 * 2+ years of Co-Founder at EdTech company, in charge of strategy, operations, communication and product development.
