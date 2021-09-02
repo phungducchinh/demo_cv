@@ -12,7 +12,7 @@ commerce,...
 
 
 
-👨🏻‍💻### WORK EXPERIENCE
+### WORK EXPERIENCE 👨🏻‍💻 
 
 **Co-Founder & General Manager** [CrossTech JSC,](crosstechhub.com) _(Dec 2018 - Present)_
 
@@ -51,7 +51,7 @@ commerce,...
 
 
 
-👨🏻‍🎓### EDUCATION
+### EDUCATION 👨🏻‍🎓
 
 **Software technology** [Post and Telecommunication Institute of Technology in Ho Chi Minh City (PTIT)](http://hcm.ptit.edu.vn/) _(Sep 2014 - Jan 2019)_
 GPA: 7.25/10
@@ -62,7 +62,7 @@ GPA: 7.25/10
 
 
 
-📖 ### SKILL
+### SKILL 📖
 Domain knowledges | Customer service - Product development - E-commerce - Marketing
 Personal | Leadership - Communication - Negotiation - Presentation - Problem Solving - Critical thinking - Flexibility - Scrum (Agile)
 Technical | Mobile software circle - Design (Photoshop, XD, Sketch, Figma)
@@ -70,7 +70,7 @@ Management tools | Backlog - Jira - Trello - Redmine
 
 
 
-📂 ### OUTSTANDING PROJECTS
+### OUTSTANDING PROJECTS 📂
 
 **BIZON!**
 _(Sep 2020 - Apr 2021)_
@@ -127,20 +127,20 @@ houseworker,...
 
 
 
-📂 ### OTHERS
+### OTHERS 📂
 
-** Software Projects:**
+**Software Projects:**
   * Warifu, SHAKEHANDS MAGAZINE, AI-B-SPARK, G-FACEID, DXD (JP);
   * EGC PROJECT (India);
   * UDI MAPS (VN), HANANETTO (JP)
-** Other Projects: **
+**Other Projects: **
   * Design idea for environmental and meteorological data management software products
   * Concept building and app design for car wash chain management.
   * Thung Ca Sach (planing), Bep Phung Thinh (website), ....
 
 
 
-💡 ### ACTIVITIES
+### ACTIVITIES 💡
 
 **Secretary** Ho Chi Minh Communist Youth Union of the Faculty of information technology at PTIT HCM _(May 2015 - May 2017)_
 Team leader organizes youth activities such as sports, volunteer, arts and entertainment.
@@ -151,7 +151,7 @@ Team leader organizes youth activities such as sports, volunteer, arts and enter
 
 
 
-🏆 ### HORNOR AND AWARD
+### HORNOR AND AWARD 🏆
 
 **Most contributor person (MCP)** in the second half of 2019 at gumi Viet Nam JSC.
 **Speech of the month (4/2019)** at gumi Viet Nam JSC.
