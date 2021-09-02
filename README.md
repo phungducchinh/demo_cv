@@ -145,6 +145,7 @@ Team leader organizes youth activities such as sports, volunteer, arts and enter
 ### HORNOR AND AWARD 🏆
 
 **Most contributor person (MCP)** in the second half of 2019 at gumi Viet Nam JSC.
+
 **Speech of the month (4/2019)** at gumi Viet Nam JSC.
 
 
