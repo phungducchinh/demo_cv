@@ -63,6 +63,8 @@ GPA: 7.25/10
 
 
 ### SKILL 📖
+
+------------ | -------------
 Domain knowledges | Customer service - Product development - E-commerce - Marketing
 Personal | Leadership - Communication - Negotiation - Presentation - Problem Solving - Critical thinking - Flexibility - Scrum (Agile)
 Technical | Mobile software circle - Design (Photoshop, XD, Sketch, Figma)
