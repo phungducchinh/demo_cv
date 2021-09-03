@@ -124,7 +124,9 @@ _(Now 2018 - Feb 2019)_
   * Warifu, SHAKEHANDS MAGAZINE, AI-B-SPARK, G-FACEID, DXD (JP);
   * EGC PROJECT (India);
   * UDI MAPS (VN), HANANETTO (JP)
-**Other Projects: **
+
+
+**Other Projects:**
   * Design idea for environmental and meteorological data management software products
   * Concept building and app design for car wash chain management.
   * Thung Ca Sach (planing), Bep Phung Thinh (website), ....
@@ -134,7 +136,7 @@ _(Now 2018 - Feb 2019)_
 ### ACTIVITIES 💡
 
 **Secretary** Ho Chi Minh Communist Youth Union of the Faculty of information technology at PTIT HCM _(May 2015 - May 2017)_
-Team leader organizes youth activities such as sports, volunteer, arts and entertainment.
+ * Team leader organizes youth activities such as sports, volunteer, arts and entertainment.
 
 **Founder and Team leader** Mid-Autumn Festival for the orphans _(Sep 2015 - Oct 2016)_
   - Organize an event for the orphans.
@@ -144,9 +146,9 @@ Team leader organizes youth activities such as sports, volunteer, arts and enter
 
 ### HORNOR AND AWARD 🏆
 
-  **Most contributor person (MCP)** in the second half of 2019 at gumi Viet Nam JSC.
+  * **Most contributor person (MCP)** in the second half of 2019 at gumi Viet Nam JSC.
   
-  **Speech of the month (4/2019)** at gumi Viet Nam JSC.
+  * **Speech of the month (4/2019)** at gumi Viet Nam JSC.
 
 
 
